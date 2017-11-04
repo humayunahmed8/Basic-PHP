@@ -1,0 +1,11 @@
+
+<!-- All Arrays
+
+    1. Inedex Array (সুচনা Array)
+    2. Associative Array (সহযোগী Array)
+    3. Multidimensional Array (বহুমাত্রিক Array)
+
+    ### Array মানে শ্রেনীবিন্যাস...
+
+    ### কত গুলো Value কে Array এর মাধ্যমে ধাপে ধাপে শ্রেনীবিন্যস্ত করে দেখানো যায়...
+-->
