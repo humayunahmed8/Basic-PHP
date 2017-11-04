@@ -1,0 +1,7 @@
+<!-- There are three loop in PHP, Such as :
+
+    1. For loop 
+    2. While loop
+    3. Foreach loop
+
+-->
